@@ -1,4 +1,4 @@
-# Hola Ionic
+# Hola React Ionic
 
 This example shows how to add Ionic to a regular React project generated with [Create React App](https://create-react-app.dev).
 
